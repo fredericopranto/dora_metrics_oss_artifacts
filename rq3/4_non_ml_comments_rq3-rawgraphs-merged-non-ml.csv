@@ -1,0 +1,118 @@
+source,target,value
+Continuous Integration,CI Pipeline Issues,45
+Continuous Integration,Release planning,15
+Continuous Integration,CD Pipeline Issues,13
+Continuous Integration,PR Approval Delays,6
+Continuous Integration,Dependency Issues,18
+Versioning,Tag Issues,13
+Versioning,CI Pipeline Issues,2
+Versioning,Change Discussion,1
+Governance,Change Discussion,49
+Governance,Maintenance and Improvements,39
+Continuous Integration,CI Build Issues,16
+Continuous Integration,Tag Issues,2
+Continuous Integration,PR chain blocker,1
+Environment,Dependency Issues,27
+Environment,Maintenance and Improvements,33
+Continuous Integration,Pipeline Configuration Issues,7
+Governance,Pipeline Configuration Issues,6
+Governance,CI Pipeline Issues,19
+Testing,Bug Fixes,93
+Testing,CI Pipeline Issues,18
+Testing,Release planning,19
+Testing,Pre-Deployment Local Testing,2
+Continuous Integration,Pre-Deployment Local Testing,3
+Testing,Timeout Issues,2
+Testing,Test Coverage Issues,11
+Continuous Delivery,Backporting,15
+Continuous Delivery,CI Pipeline Issues,9
+Continuous Delivery,Dependency Issues,4
+Governance,Release planning,16
+Versioning,Maintenance and Improvements,54
+Continuous Integration,Timeout Issues,1
+Continuous Delivery,CD Pipeline Issues,24
+Continuous Delivery,Maintenance and Improvements,29
+Governance,Bug Fixes,15
+Governance,Pre-Deployment Local Testing,4
+Continuous Integration,Maintenance and Improvements,23
+Continuous Delivery,Test Coverage Issues,4
+Environment,CI Build Issues,2
+Testing,Maintenance and Improvements,34
+Continuous Delivery,CD Staging Issues,1
+Governance,Documentation,8
+Governance,CD Guidelines,4
+Governance,Tag Issues,3
+Governance,Memory Issues,1
+Testing,Post-Deployment Issues,1
+Governance,Docker Issues,6
+Continuous Integration,Change Discussion,11
+Governance,Dependency Issues,2
+Testing,PR Approval Delays,9
+Testing,Dependency Issues,12
+Versioning,Release planning,14
+Continuous Integration,Security,1
+Continuous Integration,Docker Issues,4
+Governance,Security,3
+Governance,CI Merge Conflict,4
+Governance,Feature Flag,1
+Continuous Delivery,Release planning,4
+Continuous Delivery,Bug Fixes,7
+Continuous Delivery,Flaky Issues,3
+Continuous Delivery,CI Build Issues,5
+Environment,Backward compatibility,3
+Testing,CD Guidelines,6
+Environment,Release planning,7
+Environment,CD Guidelines,3
+Governance,CI Build Issues,3
+Versioning,Bug Fixes,2
+Versioning,CD Pipeline Issues,2
+Environment,Change Discussion,4
+Versioning,Timeout Issues,1
+Versioning,Flaky Issues,1
+Continuous Integration,Flaky Issues,1
+Versioning,Test Coverage Issues,1
+Governance,CD Pipeline Issues,2
+Continuous Delivery,Docker Issues,4
+Governance,Backporting,3
+Governance,Post-Deployment Validation,1
+Testing,Flaky Issues,2
+Testing,Change Discussion,15
+Continuous Delivery,Post-Deployment Validation,3
+Continuous Delivery,PR Approval Delays,2
+Environment,Security,1
+Continuous Delivery,CD Deployment Issues,13
+Continuous Delivery,Change Discussion,14
+Governance,PR Approval Delays,4
+Continuous Delivery,Backward compatibility,2
+Environment,CI Pipeline Issues,6
+Continuous Delivery,Pipeline Configuration Issues,2
+Continuous Delivery,Memory Issues,1
+Environment,PR Approval Delays,2
+Testing,Backporting,6
+Testing,Tag Issues,5
+Governance,Backward compatibility,2
+Continuous Integration,Bug Fixes,6
+Testing,CI Merge Conflict,3
+Continuous Integration,CI Merge Conflict,2
+Testing,Deployment freezing,1
+Governance,Flaky Issues,1
+Testing,Docker Issues,5
+Testing,Pipeline Configuration Issues,2
+Continuous Delivery,Timeout Issues,1
+Environment,Docker Issues,9
+Environment,Tag Issues,2
+Environment,Pipeline Configuration Issues,1
+Governance,PR chain blocker,1
+Environment,ML Related,1
+Testing,Backward compatibility,1
+Continuous Integration,Test Coverage Issues,1
+Governance,Deployment freezing,1
+Continuous Delivery,CI Merge Conflict,1
+Testing,CI Build Issues,1
+Continuous Delivery,PR chain blocker,1
+Continuous Integration,CD Deployment Issues,1
+Continuous Delivery,CD Guidelines,3
+Continuous Delivery,Security,2
+Testing,CD Deployment Issues,1
+Continuous Delivery,Tag Issues,1
+Governance,CD Deployment Issues,1

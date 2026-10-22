@@ -1,0 +1,159 @@
+source,target,value
+Governance,Change Discussion,37
+Governance,Maintenance and Improvements,37
+Continuous Integration,Pipeline Configuration Issues,15
+Continuous Integration,Maintenance and Improvements,23
+Governance,Documentation,26
+Governance,PR chain blocker,1
+Governance,Backward compatibility,3
+Governance,Deployment skipping,2
+Governance,Pre-Deployment Local Testing,2
+Governance,Pipeline Configuration Issues,1
+Governance,PR Approval Delays,14
+Continuous Delivery,Backward compatibility,14
+Continuous Delivery,Dependency Issues,27
+Continuous Delivery,Maintenance and Improvements,33
+Continuous Delivery,Change Discussion,23
+Continuous Delivery,Tag Issues,4
+Continuous Integration,CI Pipeline Issues,41
+Continuous Integration,Dependency Issues,22
+Continuous Integration,Change Discussion,26
+Continuous Integration,CI Build Issues,25
+Continuous Integration,GPU Issues,1
+Machine Learning,ML Related,94
+Machine Learning,Maintenance and Improvements,52
+Machine Learning,Release planning,40
+Environment,Security,6
+Environment,CI Pipeline Issues,9
+Environment,Change Discussion,9
+Machine Learning,Bug Fixes,41
+Machine Learning,CD Guidelines,17
+Testing,Bug Fixes,22
+Testing,Maintenance and Improvements,9
+Testing,ML Related,3
+Versioning,Maintenance and Improvements,44
+Versioning,CD Guidelines,8
+Versioning,CI Merge Conflict,1
+Versioning,Tag Issues,10
+Versioning,ML Related,6
+Machine Learning,CI Pipeline Issues,37
+Machine Learning,Dependency Issues,16
+Governance,Tag Issues,5
+Governance,CD Deployment Issues,4
+Continuous Delivery,Backporting,6
+Continuous Delivery,Documentation,1
+Continuous Delivery,Release planning,15
+Environment,Docker Issues,6
+Environment,Pipeline Configuration Issues,2
+Environment,CI Build Issues,6
+Environment,Pre-Deployment Local Testing,2
+Environment,CD Deployment Issues,3
+Environment,Orchestration Issues,1
+Versioning,Change Discussion,5
+Continuous Delivery,CD Pipeline Issues,24
+Continuous Delivery,CI Pipeline Issues,19
+Continuous Delivery,Docker Issues,5
+Continuous Delivery,Pipeline Configuration Issues,3
+Continuous Delivery,Bug Fixes,9
+Continuous Delivery,Orchestration Issues,3
+Governance,CI Pipeline Issues,12
+Continuous Integration,CD Guidelines,10
+Machine Learning,Change Discussion,43
+Machine Learning,PR Approval Delays,29
+Governance,ML Related,12
+Continuous Delivery,CD Guidelines,7
+Continuous Delivery,ML Related,12
+Governance,Dependency Issues,17
+Governance,Bug Fixes,19
+Machine Learning,Pipeline Configuration Issues,4
+Versioning,Release planning,22
+Versioning,CD Deployment Issues,1
+Versioning,CD Staging Issues,1
+Machine Learning,Docker Issues,3
+Machine Learning,CI Build Issues,5
+Governance,Release planning,9
+Governance,CD Guidelines,7
+Governance,CD Pipeline Issues,2
+Continuous Integration,Release planning,10
+Continuous Integration,CD Pipeline Issues,4
+Versioning,Bug Fixes,5
+Versioning,CD Pipeline Issues,3
+Continuous Delivery,Post-Deployment Validation,5
+Continuous Integration,Pre-Deployment Local Testing,2
+Continuous Integration,Backward compatibility,3
+Continuous Integration,Bug Fixes,6
+Continuous Integration,CD Deployment Issues,5
+Continuous Integration,Deployment freezing,1
+Testing,Test Coverage Issues,10
+Versioning,Dependency Issues,13
+Versioning,Memory Issues,1
+Continuous Integration,PR chain blocker,2
+Continuous Integration,CD Staging Issues,1
+Continuous Integration,Test Coverage Issues,3
+Continuous Integration,Flaky Issues,1
+Environment,Dependency Issues,18
+Environment,Post-Deployment Validation,1
+Testing,CI Pipeline Issues,6
+Testing,Orchestration Issues,1
+Machine Learning,Pre-Deployment Local Testing,6
+Testing,Release planning,15
+Continuous Delivery,CD Deployment Issues,10
+Environment,Bug Fixes,9
+Environment,Flaky Issues,1
+Continuous Delivery,Pre-Deployment Local Testing,8
+Continuous Delivery,CI Build Issues,13
+Environment,Maintenance and Improvements,10
+Environment,ML Related,3
+Machine Learning,Security,3
+Machine Learning,Post-Deployment Validation,1
+Testing,Dependency Issues,2
+Continuous Integration,PR Approval Delays,4
+Governance,Test Coverage Issues,7
+Testing,Post-Deployment Validation,2
+Versioning,CI Pipeline Issues,8
+Continuous Delivery,Flaky Issues,2
+Testing,Change Discussion,4
+Testing,CD Guidelines,2
+Versioning,Post-Deployment Validation,3
+Governance,Orchestration Issues,1
+Governance,CD Staging Issues,1
+Environment,Backward compatibility,2
+Environment,Release planning,2
+Machine Learning,Backward compatibility,5
+Machine Learning,GPU Issues,6
+Machine Learning,Documentation,9
+Machine Learning,Flaky Issues,1
+Machine Learning,Test Coverage Issues,9
+Continuous Delivery,GPU Issues,4
+Governance,IaC Related,2
+Continuous Delivery,PR Approval Delays,2
+Governance,CI Build Issues,7
+Environment,CD Guidelines,1
+Continuous Integration,Onboarding,1
+Continuous Integration,Docker Issues,2
+Versioning,CI Build Issues,2
+Continuous Integration,Deployment skipping,1
+Testing,Flaky Issues,1
+Governance,ML Dataset Issues,1
+Governance,Onboarding,1
+Governance,Deployment Pipeline Automation,1
+Testing,PR Approval Delays,2
+Testing,CI Build Issues,2
+Testing,Pre-Deployment Local Testing,1
+Machine Learning,Onboarding,1
+Machine Learning,Deployment freezing,1
+Machine Learning,Tag Issues,4
+Machine Learning,Backporting,1
+Continuous Delivery,Test Coverage Issues,3
+Continuous Delivery,Onboarding,1
+Machine Learning,CD Deployment Issues,4
+Governance,Docker Issues,1
+Continuous Delivery,Security,1
+Continuous Delivery,Deployment Pipeline Automation,1
+Continuous Integration,Post-Deployment Issues,1
+Machine Learning,CD Pipeline Issues,1
+Continuous Delivery,Memory Issues,1
+Environment,Test Coverage Issues,2
+Continuous Integration,Deployment Pipeline Automation,2
+Machine Learning,CI Merge Conflict,1
+Testing,Deployment freezing,1
