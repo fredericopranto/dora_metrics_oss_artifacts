@@ -14,7 +14,7 @@ The repository is organized as follows:
 .
 ├── rq1/                            # Contains chart images for Research Question 1
 ├── rq2/                            # Contains chart images for Research Question 2
-├── rq3/                            # Contains XML files used for thematic coding
+├── rq3/                            # Contains files used for thematic coding
 ├── dora_metrics_collection.pdf     # Documentation on the metrics collection process
 ├── dora_metrics_steps.pdf          # Detailed steps for metrics calculation
 └── README.md                       # This file
